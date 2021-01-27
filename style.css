@@ -1,0 +1,99 @@
+nav{
+display:inline-block;
+  width:1200px;
+  float:right;
+}
+nav ul{
+  list-style-type:none;
+}
+nav ul li{
+  display: inline-block;
+  margin-right:25px;
+}
+nav a{
+font: 1em;
+text-decoration:none;
+color:white;
+float:right;
+}
+.texte_centrer{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color:white;
+}
+.h6{
+  margin-bottom: 10px;
+}
+.centrer {
+  text-align: center;
+}
+.row{
+  text-align: center;
+}
+.image-ronde{
+  widows:1px;
+  height:0px ;
+  padding: 15px;
+background-image:url(images/Circle.png) ;
+}
+.S1 {
+  position: relative;
+  text-align: center;
+  color:black;
+}
+.t1{
+  text-align: center;
+  background-color:rgb(246, 245, 241);
+}
+img{
+padding:0px;
+margin-top:20px;
+}
+.C1{
+  text-align: center;
+  background-color:white;
+}
+#tx1 {
+  text-align:right;
+}
+#tx2 {
+  text-align:left;
+}
+#tx3 {
+  text-align:right;
+}
+#tx4 {
+  text-align:left;
+}
+#tx5 {
+  text-align:center;
+  background-color:rgb(255, 217, 0);
+  color: white;
+  width:14% ;
+  border-radius:90% ;
+  padding-top:2% ;
+  padding-bottom:2% ;
+  padding-left: 1%;
+  padding-right:1%;
+  margin-left:10% ;  
+}
+.img{
+  text-align: center;
+  background-color:rgb(246, 245, 241);
+}
+.f1{
+  text-align: center;
+  color:white;
+}
+.iph{
+  text-align: center;
+}
+
+
+
+
+
+
